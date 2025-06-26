@@ -167,7 +167,7 @@ This project is licensed under the GNU Affero General Public License - see the [
 - Website: [0x Technologies](https://0xtech.org)
 - Twitter: [@0x Technologies](https://twitter.com/0xtech.guru)
 - Email: metadevxi@gmail.com
-- Telegram: metaDevxi
+- Telegram: t.me/metaDevxi
 
 ## Acknowledgments
 
